@@ -1,0 +1,110 @@
+body{
+    background-color: white;
+}
+.inicio{
+    color: gray;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-self: center;
+}
+img{
+    height: 60px;
+    width: 20%;
+    border-radius: 15px;
+    align-self: center;  
+    margin-right: 5%; 
+}
+.text0{
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 20px;
+    line-height: 1px;
+}
+
+.tela2{
+    background-color:#FFCC81;
+    height: 180px;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    margin-left: 5%;
+    
+}
+
+.tela2 img{
+    height: 180px;
+    width: 150px;
+    float: left;
+}
+.text3{
+    color: white;
+    margin-left: 5%;
+    margin-top: -5%;
+}
+.text3 p{
+    font-size: 1.5em;
+    color: white;
+    
+}
+.botao1{
+    background-color: white;
+    color: orange;
+    border-radius: 15px;
+    padding: 10px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.container {
+    height: 100px;
+    background-color: #D1C1DA;
+    margin: 5%;
+    color: white;
+    border-radius: 15px;
+    text-align: end;
+    padding: 10px;   
+}
+.tela4{
+    height: 40px;
+    width: 100%;
+    display: flex;
+}
+.recommend{
+    font-size: 1.3em;
+    color: black;
+    width: 50%;
+    
+}
+.more{
+    font-size: 0.8em;
+    color: gray;
+    width: 50%;
+    margin-left: 190px;
+    align-self: center;
+}
+
+.menu{
+    height: 100px;
+    width: 100%;
+    background-color: #FFCC81;
+    border-radius: 15px;
+    align-items: right;
+    
+}
+.menu img{
+    width: 100px;
+    height: 100px;
+
+}
+footer{
+    height: 50px;
+    background-color: #D1C1DA;
+    border-radius:15px;
+     
+}
+
+
+
+
