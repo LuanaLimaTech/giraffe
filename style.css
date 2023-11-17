@@ -94,10 +94,15 @@ img{
     
 }
 .menu img{
-    width: 100px;
+    width: 20%;
     height: 100px;
 
 }
+.text5{
+    width:80%;
+    text-align:justify;
+}
+
 footer{
     height: 50px;
     background-color: #D1C1DA;
